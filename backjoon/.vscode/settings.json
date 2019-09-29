@@ -5,6 +5,7 @@
     "string": "cpp",
     "iostream": "cpp",
     "ostream": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "queue": "cpp"
   }
 }
