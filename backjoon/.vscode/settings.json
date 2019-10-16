@@ -6,6 +6,12 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "stack": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "iosfwd": "cpp",
+    "__bit_reference": "cpp",
+    "__string": "cpp",
+    "algorithm": "cpp",
+    "deque": "cpp",
+    "string_view": "cpp"
   }
 }
