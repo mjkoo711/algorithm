@@ -2,16 +2,8 @@
 #include <vector>
 #include <queue>
 #include <map>
+#include "Node.h"
 using namespace std;
-
-struct Node {
-  char character;
-  int frequency;
-  Node *left, *right;
-  Node(int c, int f): character(c), frequency(f) {
-    left = NULL; right = NULL;
-  }
-};
 
 struct Compare {
   bool operator() (Node* const& n1, Node* const& n2) {
